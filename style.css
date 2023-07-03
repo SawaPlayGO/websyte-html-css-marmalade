@@ -38,3 +38,7 @@ h1 {
     padding: 20px;
 }
   
+
+.callout-info {
+    border-left-color: rgb(2, 202, 2);
+}
